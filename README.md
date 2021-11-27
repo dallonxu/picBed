@@ -1,2 +1,2 @@
-# images
-Image bed
+# picBed
+Picture bed
